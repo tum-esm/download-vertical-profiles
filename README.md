@@ -1,3 +1,7 @@
+**❗️ Now included in https://github.com/tum-esm/em27-retrieval-pipeline ❗️**
+
+<br/>
+
 # Download Vertical Profiles
 
 _Formerly: https://github.com/tum-esm/download-map-data_
